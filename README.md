@@ -1,6 +1,7 @@
-## :zap: Buy me a coffe: https://paypal.me/CaraffaPlugins   
-## :trophy: GitLab: https://gitlab.com/Caraffa-git   
-## :speech_balloon: Discord: Caraffa#2500
+Hi, my name is Caraffa and I am an electronics enthusiast (currently studying in Warsaw) and ~~unfortunately~~ a self-taught programmer. At the moment I'm mainly interested in the high-voltage part of electronics, but in the near future I'll focus on low-voltage projects. You can write to me on discord at any time.
+
+**Discord: Caraffa#2500**   
+**GitLab: https://gitlab.com/Caraffa-git**   
 
 <!--
 **Caraffa-git/Caraffa-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
