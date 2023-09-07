@@ -1,4 +1,4 @@
-Hi, my name is Caraffa and I am an electronics enthusiast (currently studying in Warsaw) and ~~unfortunately~~ a self-taught programmer. At the moment I'm mainly interested in the high voltage and high power part electronics, but in the near future I'll focus more on low-voltage projects. You can write to me on discord at any time.
+Hi, my name is Caraffa and I am an electronics student and a programmer. At the moment I'm mainly interested in the high voltage and high power part electronics, but in the near future I'll focus more on low-voltage projects. You can write to me on discord at any time.
 
 **Discord: @caraffa ~~Caraffa#2500~~**   
 **GitLab: https://gitlab.com/Caraffa-git**   
