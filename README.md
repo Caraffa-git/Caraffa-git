@@ -1,9 +1,9 @@
 Hi, I'm Caraffa and I am an electronics student and a programmer. At the moment I'm mainly interested in the high voltage and high power part of electronics, but in the near future I'll focus more on signal processing and low-voltage projects. You can write to me on discord at any time.
 
 **Discord: @caraffa ~~Caraffa#2500~~**   
+<!--
 **GitLab: https://gitlab.com/Caraffa-git**   
 
-<!--
 **Caraffa-git/Caraffa-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
